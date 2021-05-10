@@ -35,7 +35,7 @@ function criacanos () {
             spriteX: 113,
             spriteY: 204,
         },
-        espaço: 90,
+        espaço: 100,
         desenha() {
             canos.pares.forEach(function(par){
             const yrandom = par.y;
